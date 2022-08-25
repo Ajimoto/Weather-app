@@ -27,6 +27,7 @@ let weather = {
 		this.fetchWeather(document.querySelector('.searchBar').value);
 	},
 };
-document.querySelector('.searchBtn').addEventListener('click', function () {
+document.querySelector('.searchBtn').addEventListener('click', function (e) {
+	e.preventDefault();
 	weather.search();
 });
