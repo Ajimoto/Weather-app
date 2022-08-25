@@ -6,7 +6,7 @@
 
 This application is a team profile generator. It uses inquirer to prompt the user with options to add team members under a manager.
 
-[Deployed Application] (https://ajimoto.github.io/Weather-app/?)
+Deployed Application: https://ajimoto.github.io/Weather-app/?
 
 ## Table of Contents
 
@@ -17,24 +17,21 @@ This application is a team profile generator. It uses inquirer to prompt the use
 
 ## Installation
 
-To get started in the development environment, follow the following steps:
-
-1.  Clone this the repo found at this [link](https://github.com/Ajimoto/TeamProfileGenerator)
-2.  Open a terminal and navigate to the root directory of the project
-3.  Run 'npm i' to get the project dependecies
-4.  Run 'node index.js' to start the server
+No installation needed. project is deployed live at the site (see above)
 
 ## Usage
 
-Use to generate a team in the HTML format.
+User can input city names to pull the current weather in the selected city. Just type in a city name to pull up the data.
 
-![Alt text](</Screen Shot 2022-08-17 at 7.43.36 PM.png>)
+![Alt text](</images/Screen Shot 2022-08-24 at 8.26.17 PM (2).png>)
+![Alt text](</images/Screen Shot 2022-08-24 at 8.26.23 PM (2).png>)
 
 ## Credits
 
 Created by:
 
 - [Austin Gentz](https://github.com/Ajimoto)
+- Weather API -> https://openweathermap.org/
 
 ## License
 
